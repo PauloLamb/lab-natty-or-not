@@ -23,25 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Geração de imagens de gatos
+Geração de imagens realistas de gatos
 
 ## 🤖 Tecnologias Utilizadas
-Copylot e MetaAI
+Meta AI
 
 ## 🧐 Processo de Criação
-Através de simples prompts de comando em ambas linguagens como "gere imagens realistas de gatos" obtém-se resultados surpreendentes.
-O resultado da MetaAI supera e muito o resultado do Copylot, visto que este último gerou imagens mais "cartunescas"
+Através de simples prompts em linguagem natual na MetaAI
 
 ## 🚀 Resultados
-Copylot
-![Sem título](https://github.com/user-attachments/assets/0c40b8fd-c05b-460d-9fc8-f9256883128a)
-
-MetaAI
-![Sem título](https://github.com/user-attachments/assets/1dbbeb46-ad5d-4857-9cdc-decc984fd066)
+Os resultados estão na pasta exemplos
 
 
 ## 💭 Reflexão (Opcional)
-É possível gerar imagens facilmente em uma única linha de comando.
+As imagens geradas possuem um fotorrealismo surpreeendente facilmente confundíveis com imagens reais.
 ```
 
 ### Exemplos e Insigths
